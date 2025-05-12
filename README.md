@@ -1,4 +1,4 @@
-![Text Analysis](images/text_analysis_tools.jpg)
+![Text Analysis](images/my_image_text.png)
 
 # Text Analyzer in Python 📝
 Welcome to my first text analysis project! 
