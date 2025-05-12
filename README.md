@@ -1,3 +1,5 @@
+![Text Analysis](images/text_analysis_tools.jpg)
+
 # Text Analyzer in Python 📝
 Welcome to my first text analysis project! 
 This simple Python program allows you to explore and extract key information from any text input.
